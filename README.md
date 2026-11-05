@@ -80,7 +80,7 @@ Install the .NET 9 SDK, create a `References` folder and copy `TShockAPI.dll`, `
 
 ## Credits and license
 - **Riburitu** — port to Terraria 1.4.5.x, improvements and this fork.
-- **Zaicon** — author of *InfiniteChests V3*; **MarioE** — author of the original *InfiniteChests*. Thank you.
+- [**Zaicon**](https://github.com/Zaicon/InfiniteChestsV3) — author of *InfiniteChests V3*; [**MarioE**](https://github.com/MarioE/InfiniteChests) — author of the original *InfiniteChests*. Thank you.
 - **Note on the original code:** neither *InfiniteChests* (MarioE) nor *InfiniteChests V3* (Zaicon) include a license file, and their authors could not be contacted. The original code therefore remains the property of its authors and is credited to them; no additional rights over it are claimed here. The GNU GPL v3 applies to the additions and modifications written for this fork.
 
 ---
@@ -163,5 +163,5 @@ Instale el SDK de .NET 9, cree una carpeta `References` y copie en ella `TShockA
 
 ## Créditos y licencia
 - **Riburitu** — adaptación a Terraria 1.4.5.x, mejoras y este fork.
-- **Zaicon** — autor de *InfiniteChests V3*; **MarioE** — autor del *InfiniteChests* original. Gracias.
+- [**Zaicon**](https://github.com/Zaicon/InfiniteChestsV3) — autor de *InfiniteChests V3*; [**MarioE**](https://github.com/MarioE/InfiniteChests) — autor del *InfiniteChests* original. Gracias.
 - **Nota sobre el código original:** ni *InfiniteChests* (MarioE) ni *InfiniteChests V3* (Zaicon) incluyen archivo de licencia, y no ha sido posible contactar con sus autores. Por tanto, el código original sigue siendo propiedad de sus autores y se les acredita; aquí no se reclama ningún derecho adicional sobre él. La GNU GPL v3 se aplica a las adiciones y modificaciones escritas para este fork.
