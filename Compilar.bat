@@ -44,7 +44,7 @@ echo ==========================================
 echo COMPILACION CORRECTA
 echo ==========================================
 echo DLL:
-echo %CD%\bin\Release\net9.0\InfiniteChestsV3.dll
+echo %CD%\bin\Release\net9.0\HorizonChests.dll
 echo.
 pause
 endlocal
