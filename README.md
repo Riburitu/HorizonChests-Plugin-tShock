@@ -13,7 +13,7 @@ TShock plugin that stores chests in a **database** instead of the world file, so
 ## Demo video
 ▶️ **[Watch the demo on YouTube](https://www.youtube.com/watch?v=KrSJbTuVm6o)** — *HorizonChests Exposition - TShock Plugin 1.4.5.8*
 
-[![HorizonChests demo video](https://img.youtube.com/vi/KrSJbTuVm6o/maxresdefault.jpg)](https://www.youtube.com/watch?v=KrSJbTuVm6o)
+[![HorizonChests demo video](https://img.youtube.com/vi/KrSJbTuVm6o/hqdefault.jpg)](https://www.youtube.com/watch?v=KrSJbTuVm6o)
 
 ## Features
 - Chests saved in the database configured in TShock (`sqlite` or `mysql`).
@@ -101,7 +101,7 @@ Plugin de TShock que guarda los cofres en una **base de datos** en lugar del arc
 ## Vídeo de demostración
 ▶️ **[Ver la demostración en YouTube](https://www.youtube.com/watch?v=KrSJbTuVm6o)** — *HorizonChests Exposition - TShock Plugin 1.4.5.8*
 
-[![Vídeo de demostración de HorizonChests](https://img.youtube.com/vi/KrSJbTuVm6o/maxresdefault.jpg)](https://www.youtube.com/watch?v=KrSJbTuVm6o)
+[![Vídeo de demostración de HorizonChests](https://img.youtube.com/vi/KrSJbTuVm6o/hqdefault.jpg)](https://www.youtube.com/watch?v=KrSJbTuVm6o)
 
 ## Características
 - Cofres guardados en la base de datos configurada en TShock (`sqlite` o `mysql`).
