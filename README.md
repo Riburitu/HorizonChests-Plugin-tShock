@@ -10,6 +10,11 @@ TShock plugin that stores chests in a **database** instead of the world file, so
 - **Status:** finished and tested by the author on Terraria 1.4.5.8 / TShock 6.2.1. The compiled `HorizonChests.dll` is published on the project's *Releases* page.
 - **License:** [GNU GPL v3](LICENSE) for the code written in this fork — you may use, modify and share it, but any modified version you distribute must also be open source under the same license. See [Credits and license](#credits-and-license) for the status of the original code.
 
+## Demo video
+▶️ **[Watch the demo on YouTube](https://www.youtube.com/watch?v=KrSJbTuVm6o)** — *HorizonChests Exposition - TShock Plugin 1.4.5.8*
+
+[![HorizonChests demo video](https://img.youtube.com/vi/KrSJbTuVm6o/maxresdefault.jpg)](https://www.youtube.com/watch?v=KrSJbTuVm6o)
+
 ## Features
 - Chests saved in the database configured in TShock (`sqlite` or `mysql`).
 - Claim / unclaim chests, make them public, and share them with players or groups.
@@ -92,6 +97,11 @@ Plugin de TShock que guarda los cofres en una **base de datos** en lugar del arc
 - **Compatible con:** Terraria 1.4.5.8 · TShock 6.2.1 (.NET 9) · API de plugins 2.1
 - **Estado:** terminado y probado por el autor en Terraria 1.4.5.8 / TShock 6.2.1. El `HorizonChests.dll` ya compilado se publica en la página de *Releases* del proyecto.
 - **Licencia:** [GNU GPL v3](LICENSE) para el código escrito en este fork — puede usarlo, modificarlo y compartirlo, pero toda versión modificada que distribuya debe seguir siendo de código abierto con la misma licencia. Consulte [Créditos y licencia](#créditos-y-licencia) para el estado del código original.
+
+## Vídeo de demostración
+▶️ **[Ver la demostración en YouTube](https://www.youtube.com/watch?v=KrSJbTuVm6o)** — *HorizonChests Exposition - TShock Plugin 1.4.5.8*
+
+[![Vídeo de demostración de HorizonChests](https://img.youtube.com/vi/KrSJbTuVm6o/maxresdefault.jpg)](https://www.youtube.com/watch?v=KrSJbTuVm6o)
 
 ## Características
 - Cofres guardados en la base de datos configurada en TShock (`sqlite` o `mysql`).
