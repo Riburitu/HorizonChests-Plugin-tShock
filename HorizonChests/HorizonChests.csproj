@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <AssemblyName>HorizonChests</AssemblyName>
+    <RootNamespace>HorizonChests</RootNamespace>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <Version>1.7.0</Version>
+    <TShockDir>References</TShockDir>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ModFramework"><HintPath>$(TShockDir)\ModFramework.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="MySql.Data"><HintPath>$(TShockDir)\MySql.Data.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="OTAPI"><HintPath>$(TShockDir)\OTAPI.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="TerrariaServer"><HintPath>$(TShockDir)\TerrariaServer.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="TShockAPI"><HintPath>$(TShockDir)\TShockAPI.dll</HintPath><Private>false</Private></Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.Sqlite" Version="9.0.0" ExcludeAssets="runtime" />
+  </ItemGroup>
+
+</Project>
